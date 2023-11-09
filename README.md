@@ -19,5 +19,3 @@ Versions of tools used:
 - rosdep version: `0.22.2`
 - rosdistro version: `0.9.0`
 - vcstools version: `0.1.42`
-
-
